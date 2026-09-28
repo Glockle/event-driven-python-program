@@ -1,3 +1,3 @@
 # event-driven-python-program
 
-lalalalalallalalalalal
+Event driven python program using tkinter.
